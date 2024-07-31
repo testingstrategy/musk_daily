@@ -13,6 +13,26 @@
         "FIVE steps: how to organize business processes? Episode 11" : 29711,
         "What you can learn from Elon Musk? Uncovering the secrets of success" : 1
     },
+  "funds_keys" : [
+      "diamonds",
+      "oil_companies",
+      "limited_edition_watches",
+      "expensive_wine",
+      "classic_cars",
+      "pharmaceutical_companies",
+      "car_rentals_in_dubai",
+      "meme_tshirts",
+      "real_estate_in_nigeria",
+      "hamster_breeding",
+      "artificial_intelligence",
+      "electric_vehicle_manufacturers",
+      "gold_mining_tools",
+      "game_development",
+      "space_companies",
+      "unicorn_breeding",
+      "onlyfans_models",
+      "blockchain_projects"
+    ],
   "2024-07-30":{
     "quiz":"decentralization",
     "rebus":"capital",
@@ -20,6 +40,7 @@
   },
   "2024-07-31": {
     "quiz":"community",
-    "rebus":"dividend"
+    "rebus":"dividend",
+    "funds":["blockchain_projects","artificial_intelligence","hamster_breeding"]
   }
 }
