@@ -1,7 +1,21 @@
 {
-"2024-07-25":{"funds":["blockchain_projects","electric_vehicle_manufacturers","gold_mining_tools"],"quiz":"metaverse"},
-"2024-07-26":{"quiz":"vesting","funds":["hamster_breeding","onlyfans_models","limited_edition_watches"]},
-"2024-07-27":{"quiz":"launchpad","rebus":"cryptocurrency"},"2024-07-28":{"quiz":"profit","rebus":"blockchain"},
-"2024-07-29":{"quiz":"verification","rebus":"investment","funds":["artificial_intelligence","onlyfans_models","car_rentals_in_dubai"]},
-"2024-07-30":{"quiz":"decentralization","rebus":"capital","funds":["hamster_breeding","space_companies","electric_vehicle_manufacturers"]}
+  "youtube" : {
+        "Episode 1" : 45666,
+        "Episode 2" : 65755,
+        "Episode 3" : 97025,
+        "Episode 4" : 77375,
+        "Episode 5" : 36487,
+        "Episode 6" : 57624,
+        "Episode 7" : 37519,
+        "Episode 8" : 35489,
+        "Episode 9" : 28139,
+        "Episode 10" : 28210,
+        "Episode 11" : 29711 ,
+        "Uncovering the secrets of success." : 1
+    },
+  "2024-07-30":{
+    "quiz":"decentralization",
+    "rebus":"capital",
+    "funds":["hamster_breeding","space_companies","electric_vehicle_manufacturers"]
+  }
 }
