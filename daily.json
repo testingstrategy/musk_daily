@@ -18,5 +18,8 @@
     "rebus":"capital",
     "funds":["hamster_breeding","space_companies","electric_vehicle_manufacturers"]
   },
-  "2024-07-31": {}
+  "2024-07-31": {
+    "quiz":"community",
+    "rebus":"dividend"
+  }
 }
