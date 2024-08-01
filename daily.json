@@ -11,6 +11,7 @@
         "How to develop public speaking skills? Episode 9" : 28139,
         "Why is analytics the key to success in business? Episode 10" : 28210,
         "FIVE steps: how to organize business processes? Episode 11" : 29711,
+        "How to become an inspiring leader? Episode 12" : 30712,
         "What you can learn from Elon Musk? Uncovering the secrets of success" : 1
     },
   "funds_keys" : [
@@ -33,14 +34,12 @@
       "onlyfans_models",
       "blockchain_projects"
     ],
-  "2024-07-30":{
-    "quiz":"decentralization",
-    "rebus":"capital",
-    "funds":["hamster_breeding","space_companies","electric_vehicle_manufacturers"]
-  },
   "2024-07-31": {
     "quiz":"community",
     "rebus":"dividend",
     "funds":["blockchain_projects","artificial_intelligence","hamster_breeding"]
+  },
+  "2024-08-01": {
+    "rebus":"exchange"
   }
 }
