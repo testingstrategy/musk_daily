@@ -34,14 +34,13 @@
       "onlyfans_models",
       "blockchain_projects"
     ],
-  "2024-07-31": {
-    "quiz":"community",
-    "rebus":"dividend",
-    "funds":["blockchain_projects","artificial_intelligence","hamster_breeding"]
-  },
   "2024-08-01": {
     "quiz":"listing",
     "rebus":"exchange",
     "funds":["onlyfans_models","hamster_breeding","gold_mining_tools"]
+  },
+  "2024-08-02": {
+    "quiz":"wallet",
+    "rebus":"profit"
   }
 }
