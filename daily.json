@@ -42,6 +42,7 @@
   },
   "2024-08-02": {
     "quiz":"wallet",
-    "rebus":"profit"
+    "rebus":"profit",
+    "funds":["space_companies","gold_mining_tools","oil_companies"]
   }
 }
