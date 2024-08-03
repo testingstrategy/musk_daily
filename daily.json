@@ -35,14 +35,13 @@
       "onlyfans_models",
       "blockchain_projects"
     ],
-  "2024-08-01": {
-    "quiz":"listing",
-    "rebus":"exchange",
-    "funds":["onlyfans_models","hamster_breeding","gold_mining_tools"]
-  },
   "2024-08-02": {
     "quiz":"wallet",
     "rebus":"profit",
     "funds":["space_companies","gold_mining_tools","oil_companies"]
+  },
+  "2024-08-03": {
+    "quiz":"kyc",
+    "rebus":"revenue"
   }
 }
