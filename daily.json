@@ -38,19 +38,14 @@
       "onlyfans_models",
       "blockchain_projects"
     ],
-  "2024-08-02": {
-    "quiz":"wallet",
-    "rebus":"profit",
-    "funds":["space_companies","gold_mining_tools","oil_companies"]
-  },
-  "2024-08-03": {
-    "quiz":"kyc",
-    "rebus":"revenue",
-    "funds":["blockchain_projects","artificial_intelligence","expensive_wine"]
-  },
   "2024-08-04": {
     "quiz":"crm",
     "rebus":"margin",
     "funds":["unicorn_breeding","real_estate_in_nigeria","diamonds"]
+  },
+  "2024-08-05": {
+    "quiz":"monopoly",
+    "rebus":"assets",
+    "funds":["blockchain_projects","gold_mining_tools","car_rentals_in_dubai"]
   }
 }
