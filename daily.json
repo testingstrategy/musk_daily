@@ -17,7 +17,8 @@
         "2 Questions to boost your value and accelerate your self-Improvement! Episode 15" : 39915,
         "4 Steps to identify Bottlenecks in processes and business! Episode 16" : 33016,
         "How to create a strong USP (Unique Selling Proposition)? Episode 17" : 34117,
-        "What you can learn from Elon Musk? Uncovering the secrets of success" : 1
+        "What you can learn from Elon Musk? Uncovering the secrets of success" : 1,
+        "How a teenager changed the world of cryptocurrencies: The story of Vitalik Buterin" : 6
     },
   "funds_keys" : [
       "diamonds",
@@ -55,6 +56,7 @@
     "funds":["onlyfans_models","hamster_breeding","real_estate_in_nigeria"]
   },
   "2024-08-07": {
+    "riddle":"money",
     "rebus":"bullish"
   }
 }
