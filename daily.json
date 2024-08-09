@@ -42,26 +42,6 @@
       "onlyfans_models",
       "blockchain_projects"
     ],
-  "2024-08-04": {
-    "quiz":"crm",
-    "rebus":"margin",
-    "funds":["unicorn_breeding","real_estate_in_nigeria","diamonds"]
-  },
-  "2024-08-05": {
-    "quiz":"monopoly",
-    "rebus":"liabilities",
-    "funds":["blockchain_projects","gold_mining_tools","car_rentals_in_dubai"]
-  },
-  "2024-08-06": {
-    "riddle":"liquidity",
-    "rebus":"liabilities",
-    "funds":["onlyfans_models","hamster_breeding","real_estate_in_nigeria"]
-  },
-  "2024-08-07": {
-    "riddle":"money",
-    "rebus":"bullish",
-    "funds":["onlyfans_models","real_estate_in_nigeria","gold_mining_tools"]    
-  },
   "2024-08-08": {
     "riddle":"tax",
     "rebus":"inflation",
@@ -69,6 +49,7 @@
   },
   "2024-08-09": {
     "riddle":"blockchain",
-    "rebus":"interest"
+    "rebus":"interest",
+    "funds":["onlyfans_models","artificial_intelligence","meme_tshirts"] 
   }
 }
