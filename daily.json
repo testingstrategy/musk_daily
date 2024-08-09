@@ -66,5 +66,9 @@
     "riddle":"tax",
     "rebus":"inflation",
     "funds":["unicorn_breeding","hamster_breeding","game_development"] 
+  },
+  "2024-08-09": {
+    "riddle":"blockchain",
+    "rebus":"interest"
   }
 }
