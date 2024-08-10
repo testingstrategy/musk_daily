@@ -54,6 +54,7 @@
   },
   "2024-08-10": {
     "riddle":"DeFi",
-    "rebus":"STOCK"
+    "rebus":"STOCK",
+    "funds":["space_companies","electric_vehicle_manufacturers","real_estate_in_nigeria"] 
   }
 }
