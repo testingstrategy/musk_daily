@@ -60,6 +60,8 @@
     "funds":["space_companies","electric_vehicle_manufacturers","real_estate_in_nigeria"] 
   },
   "2024-08-11": {
-    "rebus":"BITCOIN"
+    "riddle":"MINING",
+    "rebus":"BITCOIN",
+    "funds":["blockchain_projects","gold_mining_tools","diamonds"] 
   }
 }
