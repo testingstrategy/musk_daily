@@ -45,24 +45,13 @@
       "onlyfans_models",
       "blockchain_projects"
     ],
-  "2024-08-08": {
-    "riddle":"tax",
-    "rebus":"inflation",
-    "funds":["unicorn_breeding","hamster_breeding","game_development"] 
-  },
-  "2024-08-09": {
-    "riddle":"blockchain",
-    "rebus":"interest",
-    "funds":["onlyfans_models","artificial_intelligence","meme_tshirts"] 
-  },
-  "2024-08-10": {
-    "riddle":"DeFi",
-    "rebus":"STOCK",
-    "funds":["space_companies","electric_vehicle_manufacturers","real_estate_in_nigeria"] 
-  },
   "2024-08-11": {
     "riddle":"MINING",
     "rebus":"BITCOIN",
     "funds":["blockchain_projects","gold_mining_tools","diamonds"] 
+  },
+  "2024-08-12": {
+    "riddle":"EARN",
+    "rebus":"ETHEREUM"
   }
 }
