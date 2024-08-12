@@ -22,6 +22,7 @@
         "The truth about burnout and how to cope It? Episode 20": 36319,
         "How ICOs work: explained in simple term. Episode 21": 37121,
         "How machine learning works? Episode 22": 37422,
+        "How to stay safe online? 3 Top cybersecurity tips! Episode 23": 38923,
         "What you can learn from Elon Musk? Uncovering the secrets of success" : 1,
         "How a teenager changed the world of cryptocurrencies: The story of Vitalik Buterin" : 6
     },
@@ -52,6 +53,7 @@
   },
   "2024-08-12": {
     "riddle":"EARN",
-    "rebus":"ETHEREUM"
+    "rebus":"ETHEREUM",
+    "funds":["space_companies","gold_mining_tools","classic_cars"] 
   }
 }
