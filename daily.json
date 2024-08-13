@@ -55,5 +55,8 @@
     "riddle":"EARN",
     "rebus":"ETHEREUM",
     "funds":["space_companies","gold_mining_tools","classic_cars"] 
+  },
+  "2024-08-13": {
+    "rebus":"FUTURES"
   }
 }
