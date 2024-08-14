@@ -60,5 +60,8 @@
     "riddle":"TOKEN",
     "rebus":"FUTURES",
     "funds":["blockchain_projects","gold_mining_tools","diamonds"] 
+  },
+  "2024-08-14": {
+    "rebus":"HEDGE"
   }
 }
