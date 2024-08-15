@@ -53,6 +53,7 @@
   },
   "2024-08-15": {
     "riddle":"NFT",
-    "rebus":"INDEX"
+    "rebus":"INDEX",
+    "funds":["space_companies","gold_mining_tools","meme_tshirts"] 
   }
 }
