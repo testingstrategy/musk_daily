@@ -46,24 +46,13 @@
       "onlyfans_models",
       "blockchain_projects"
     ],
-  "2024-08-11": {
-    "riddle":"MINING",
-    "rebus":"BITCOIN",
-    "funds":["blockchain_projects","gold_mining_tools","diamonds"] 
-  },
-  "2024-08-12": {
-    "riddle":"EARN",
-    "rebus":"ETHEREUM",
-    "funds":["space_companies","gold_mining_tools","classic_cars"] 
-  },
-  "2024-08-13": {
-    "riddle":"TOKEN",
-    "rebus":"FUTURES",
-    "funds":["blockchain_projects","gold_mining_tools","diamonds"] 
-  },
   "2024-08-14": {
     "riddle":"WEB3",
     "rebus":"HEDGE",
     "funds":["onlyfans_models","real_estate_in_nigeria","artificial_intelligence"] 
+  },
+  "2024-08-15": {
+    "riddle":"NFT",
+    "rebus":"INDEX"
   }
 }
