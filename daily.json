@@ -63,5 +63,9 @@
     "riddle":"ECOSYSTEM",
     "rebus":"ENGAGEMENT",
     "funds":["unicorn_breeding","game_development","artificial_intelligence"]
+  },
+  "2024-08-17": {
+    "riddle":"APY",
+    "rebus":"TARGET"
   }
 }
