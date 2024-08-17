@@ -66,6 +66,7 @@
   },
   "2024-08-17": {
     "riddle":"APY",
-    "rebus":"TARGET"
+    "rebus":"TARGET",
+    "funds":["space_companies","artificial_intelligence","gold_mining_tools"]
   }
 }
