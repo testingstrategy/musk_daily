@@ -68,5 +68,13 @@
     "riddle":"APY",
     "rebus":"TARGET",
     "funds":["space_companies","artificial_intelligence","gold_mining_tools"]
+  },
+  "2024-08-18": {
+    "riddle":"APR",
+    "rebus":"ANALYTICS",
+    "funds":["onlyfans_models","game_development","real_estate_in_nigeria"]
+  },
+  "2024-08-19": {
+    "rebus":"CUSTOMER"
   }
 }
