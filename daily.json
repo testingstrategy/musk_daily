@@ -49,32 +49,14 @@
       "onlyfans_models",
       "blockchain_projects"
     ],
-  "2024-08-14": {
-    "riddle":"WEB3",
-    "rebus":"HEDGE",
-    "funds":["onlyfans_models","real_estate_in_nigeria","artificial_intelligence"] 
-  },
-  "2024-08-15": {
-    "riddle":"NFT",
-    "rebus":"INDEX",
-    "funds":["space_companies","gold_mining_tools","meme_tshirts"] 
-  },
-  "2024-08-16": {
-    "riddle":"ECOSYSTEM",
-    "rebus":"ENGAGEMENT",
-    "funds":["unicorn_breeding","game_development","artificial_intelligence"]
-  },
-  "2024-08-17": {
-    "riddle":"APY",
-    "rebus":"TARGET",
-    "funds":["space_companies","artificial_intelligence","gold_mining_tools"]
-  },
   "2024-08-18": {
     "riddle":"APR",
     "rebus":"ANALYTICS",
     "funds":["onlyfans_models","game_development","real_estate_in_nigeria"]
   },
   "2024-08-19": {
-    "rebus":"CUSTOMER"
+    "riddle":"DELISTING",
+    "rebus":"CUSTOMER",
+    "funds":["artificial_intelligence","meme_tshirts","space_companies"]
   }
 }
