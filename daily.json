@@ -63,5 +63,10 @@
     "riddle":"PROTOCOL",
     "rebus":"STRATEGY",
     "funds":["classic_cars","real_estate_in_nigeria","blockchain_projects"]
+  },
+  "2024-08-21": {
+    "riddle":"Stock",
+    "rebus":"Loyalty",
+    "funds":["game_development","real_estate_in_nigeria","space_companies"]
   }
 }
