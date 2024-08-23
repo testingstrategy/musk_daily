@@ -47,7 +47,8 @@
       "space_companies",
       "unicorn_breeding",
       "onlyfans_models",
-      "blockchain_projects"
+      "blockchain_projects",
+      "blum"
     ],
   "2024-08-18": {
     "riddle":"APR",
@@ -71,6 +72,7 @@
   },
   "2024-08-23": {
     "riddle":"TRADING",
-    "rebus":"ADVERTISING"
+    "rebus":"ADVERTISING",
+    "funds":["blum","onlyfans_models","gold_mining_tools"]
   }
 }
