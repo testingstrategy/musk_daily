@@ -50,29 +50,12 @@
       "blockchain_projects",
       "blum"
     ],
-  "2024-08-18": {
-    "riddle":"APR",
-    "rebus":"ANALYTICS",
-    "funds":["onlyfans_models","game_development","real_estate_in_nigeria"]
-  },
-  "2024-08-19": {
-    "riddle":"DELISTING",
-    "rebus":"CUSTOMER",
-    "funds":["artificial_intelligence","meme_tshirts","space_companies"]
-  },
-  "2024-08-20": {
-    "riddle":"PROTOCOL",
-    "rebus":"STRATEGY",
-    "funds":["classic_cars","real_estate_in_nigeria","blockchain_projects"]
-  },
-  "2024-08-21": {
-    "riddle":"Stock",
-    "rebus":"Loyalty",
-    "funds":["game_development","real_estate_in_nigeria","space_companies"]
-  },
   "2024-08-23": {
     "riddle":"TRADING",
     "rebus":"ADVERTISING",
     "funds":["blum","onlyfans_models","gold_mining_tools"]
+  },
+  "2024-08-24": {
+    "rebus":"METRICS"
   }
 }
