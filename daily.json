@@ -57,5 +57,10 @@
   },
   "2024-08-24": {
     "rebus":"METRICS"
-  }
+  },
+  "2024-08-25": {
+    "riddle":"LIMIT",
+    "rebus":"RECRUITMENT",
+    "funds":["blum","blockchain_projects","gold_mining_tools"]
+  },
 }
