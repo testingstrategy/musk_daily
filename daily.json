@@ -50,22 +50,14 @@
       "blockchain_projects",
       "blum"
     ],
-  "2024-08-23": {
-    "riddle":"TRADING",
-    "rebus":"ADVERTISING",
-    "funds":["blum","onlyfans_models","gold_mining_tools"]
-  },
-  "2024-08-24": {
-    "rebus":"METRICS"
-  },
-  "2024-08-25": {
-    "riddle":"LIMIT",
-    "rebus":"RECRUITMENT",
-    "funds":["blum","blockchain_projects","gold_mining_tools"]
-  },
   "2024-08-26": {
     "riddle":"LONG",
     "rebus":"LEADERSHIP",
     "funds":["blum","space_companies","hamster_breeding"]
+  },
+  "2024-08-27": {
+    "riddle":"SHORT",
+    "rebus":"ALTCOIN",
+    "funds":["blum","onlyfans_models","hamster_breeding"]
   }
 }
