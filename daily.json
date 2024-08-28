@@ -24,10 +24,15 @@
         "How machine learning works? Episode 22": 37422,
         "How to stay safe online? 3 Top cybersecurity tips! Episode 23": 38923,
         "Maximizing Margins: 3 Tips for Increasing margin. Episode 24": 39024,
-        "Deep Learning: how machines learn like humans? Episode 25": 34425,        
+        "Deep Learning: how machines learn like humans? Episode 25": 34425, 
+        "Road to the Future? The pros and cons of autopilot cars. Episode 26": 39326,
+        "How biomimicry is changing the World. Episode 27": 35527,
+        "How сloud storage works? Episode 28": 75928,  
         "What you can learn from Elon Musk? Uncovering the secrets of success" : 1,
         "How a teenager changed the world of cryptocurrencies: The story of Vitalik Buterin" : 6,
-        "How Pavel Durov resisted the authorities and сhanged the Internet? Life, projects and online privacy": 35
+        "How Pavel Durov resisted the authorities and сhanged the Internet? Life, projects and online privacy": 35,
+        "From Queens to billionaire: the real story of Donald Trump. Controversy, power, wealth, and success": 2007,
+        "The Bezos phenomenon. The billionaire's path from the garage to space.": 0
     },
   "funds_keys" : [
       "diamonds",
