@@ -74,5 +74,10 @@
     "riddle":"ALTCOIN",
     "rebus":"BEARISH",
     "funds":["blockchain_projects","artificial_intelligence","classic_cars"]
+  },
+  "2024-08-30": {
+    "riddle":"CRYPTOGRAPHY",
+    "rebus":"BLUECHIP",
+    "funds":["unicorn_breeding","game_development","electric_vehicle_manufacturers"]
   }
 }
