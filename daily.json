@@ -30,6 +30,7 @@
         "How сloud storage works? Episode 28": 75928,  
         "How will AI change the world? Episode 29" : 34329,
         "Secrets to captivating shoppers: merchandising. Episode 30": 64930,
+        "The Main types of investors and how does investing work? Episode 31": 61931,
         "What you can learn from Elon Musk? Uncovering the secrets of success" : 1,
         "How a teenager changed the world of cryptocurrencies: The story of Vitalik Buterin" : 6,
         "How Pavel Durov resisted the authorities and сhanged the Internet? Life, projects and online privacy": 35,
@@ -81,5 +82,13 @@
     "riddle":"CRYPTOGRAPHY",
     "rebus":"BLUECHIP",
     "funds":["unicorn_breeding","game_development","electric_vehicle_manufacturers"]
+  },
+  "2024-08-31": {
+    "riddle":"VOLATILITY",
+    "rebus":"BROKER",
+    "funds":["onlyfans_models","hamster_breeding","electric_vehicle_manufacturers"]
+  },
+  "2024-09-01": {
+    "rebus":"BROKER"
   }
 }
