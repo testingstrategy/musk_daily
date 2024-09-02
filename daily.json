@@ -32,6 +32,7 @@
         "Secrets to captivating shoppers: merchandising. Episode 30": 64930,
         "The Main types of investors and how does investing work? Episode 31": 61931,
         "What does a CEO really do? Episode 32": 12932,
+        "Why is an Executive assistant Important? Episode 33": 86133,
         "What you can learn from Elon Musk? Uncovering the secrets of success" : 1,
         "How a teenager changed the world of cryptocurrencies: The story of Vitalik Buterin" : 6,
         "How Pavel Durov resisted the authorities and сhanged the Internet? Life, projects and online privacy": 35,
@@ -64,34 +65,9 @@
     "rebus":"LEADERSHIP",
     "funds":["blum","space_companies","hamster_breeding"]
   },
-  "2024-08-27": {
-    "riddle":"SHORT",
-    "rebus":"ALTCOIN",
-    "funds":["blum","onlyfans_models","hamster_breeding"]
-  },
-  "2024-08-28": {
-    "riddle":"ADDRESS",
-    "rebus":"ARBITRAGE",
-    "funds":["onlyfans_models","game_development","car_rentals_in_dubai"]
-  },
-  "2024-08-29": {
-    "riddle":"ALTCOIN",
-    "rebus":"BEARISH",
-    "funds":["blockchain_projects","artificial_intelligence","classic_cars"]
-  },
-  "2024-08-30": {
-    "riddle":"CRYPTOGRAPHY",
-    "rebus":"BLUECHIP",
-    "funds":["unicorn_breeding","game_development","electric_vehicle_manufacturers"]
-  },
-  "2024-08-31": {
-    "riddle":"VOLATILITY",
-    "rebus":"BROKER",
-    "funds":["onlyfans_models","hamster_breeding","electric_vehicle_manufacturers"]
-  },
-  "2024-09-01": {
-    "riddle":"FUNDING",
-    "rebus":"BROKER",
-    "funds":["blockchain_projects","real_estate_in_nigeria","pharmaceutical_companies"]
+  "2024-09-02": {
+    "riddle":"Satoshi",
+    "rebus":"Bullion",
+    "funds":["onlyfans_models","electric_vehicle_manufacturers","artificial_intelligence"]
   }
 }
