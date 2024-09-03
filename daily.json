@@ -37,7 +37,8 @@
         "How a teenager changed the world of cryptocurrencies: The story of Vitalik Buterin" : 6,
         "How Pavel Durov resisted the authorities and сhanged the Internet? Life, projects and online privacy": 35,
         "From Queens to billionaire: the real story of Donald Trump. Controversy, power, wealth, and success": 2007,
-        "The Bezos phenomenon. The billionaire's path from the garage to space.": 0
+        "The Bezos phenomenon. The billionaire's path from the garage to space.": 0,
+        "From gum seller to Billionaire. Warren Buffett's wealth philosophy.": 1958
     },
   "funds_keys" : [
       "diamonds",
@@ -69,5 +70,10 @@
     "riddle":"Satoshi",
     "rebus":"Bullion",
     "funds":["onlyfans_models","electric_vehicle_manufacturers","artificial_intelligence"]
+  },
+  "2024-09-03": {
+    "riddle":"Farming",
+    "rebus":"Derivative",
+    "funds":["onlyfans_models","hamster_breeding","game_development"]
   }
 }
