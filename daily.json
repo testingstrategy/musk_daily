@@ -33,6 +33,7 @@
         "The Main types of investors and how does investing work? Episode 31": 61931,
         "What does a CEO really do? Episode 32": 12932,
         "Why is an Executive assistant Important? Episode 33": 86133,
+        "PR’s Impact on business growth. Episode 34": 48134,
         "What you can learn from Elon Musk? Uncovering the secrets of success" : 1,
         "How a teenager changed the world of cryptocurrencies: The story of Vitalik Buterin" : 6,
         "How Pavel Durov resisted the authorities and сhanged the Internet? Life, projects and online privacy": 35,
@@ -61,19 +62,9 @@
       "blockchain_projects",
       "blum"
     ],
-  "2024-08-26": {
-    "riddle":"LONG",
-    "rebus":"LEADERSHIP",
-    "funds":["blum","space_companies","hamster_breeding"]
-  },
-  "2024-09-02": {
-    "riddle":"Satoshi",
-    "rebus":"Bullion",
-    "funds":["onlyfans_models","electric_vehicle_manufacturers","artificial_intelligence"]
-  },
-  "2024-09-03": {
-    "riddle":"Farming",
-    "rebus":"Derivative",
-    "funds":["onlyfans_models","hamster_breeding","game_development"]
+  "2024-09-04": {
+    "riddle":"BUDGET",
+    "rebus":"DIVIDEND",
+    "funds":["unicorn_breeding","artificial_intelligence","diamonds"]
   }
 }
