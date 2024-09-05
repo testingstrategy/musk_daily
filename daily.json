@@ -72,5 +72,8 @@
     "riddle":"IPO",
     "rebus":"EQUITY",
     "funds":["space_companies","artificial_intelligence","car_rentals_in_dubai"]
+  },
+  "2024-09-06": {
+    "rebus":"float"
   }
 }
