@@ -35,6 +35,7 @@
         "Why is an Executive assistant Important? Episode 33": 86133,
         "PR’s Impact on business growth. Episode 34": 48134,
         "Marketing magic: turning Ordinary into Extraordinary. Episode 35": 15235,
+        "Why SEO Is the ultimate power mov? Episode 36": 93136,
         "What you can learn from Elon Musk? Uncovering the secrets of success" : 1,
         "How a teenager changed the world of cryptocurrencies: The story of Vitalik Buterin" : 6,
         "How Pavel Durov resisted the authorities and сhanged the Internet? Life, projects and online privacy": 35,
@@ -74,6 +75,8 @@
     "funds":["space_companies","artificial_intelligence","car_rentals_in_dubai"]
   },
   "2024-09-06": {
-    "rebus":"float"
+    "riddle":"bear",
+    "rebus":"float",
+    "funds":["blockchain_projects","hamster_breeding","pharmaceutical_companies"]
   }
 }
