@@ -36,6 +36,7 @@
         "PR’s Impact on business growth. Episode 34": 48134,
         "Marketing magic: turning Ordinary into Extraordinary. Episode 35": 15235,
         "Why SEO Is the ultimate power mov? Episode 36": 93136,
+        "Bioengineering: medical miracles of tomorrow. Episode 37": 72837,
         "What you can learn from Elon Musk? Uncovering the secrets of success" : 1,
         "How a teenager changed the world of cryptocurrencies: The story of Vitalik Buterin" : 6,
         "How Pavel Durov resisted the authorities and сhanged the Internet? Life, projects and online privacy": 35,
@@ -78,5 +79,10 @@
     "riddle":"bear",
     "rebus":"float",
     "funds":["blockchain_projects","hamster_breeding","pharmaceutical_companies"]
+  },
+  "2024-09-07": {
+    "riddle":"bull",
+    "rebus":"Funnel",
+    "funds":["onlyfans_models","artificial_intelligence","game_development"]
   }
 }
