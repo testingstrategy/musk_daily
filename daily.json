@@ -37,6 +37,8 @@
         "Marketing magic: turning Ordinary into Extraordinary. Episode 35": 15235,
         "Why SEO Is the ultimate power mov? Episode 36": 93136,
         "Bioengineering: medical miracles of tomorrow. Episode 37": 72837,
+        "The secrets of multicurrency transfers. Episode 38": 22938,
+        "Who’s behind your crypto transfers? Episode 39": 44139,
         "What you can learn from Elon Musk? Uncovering the secrets of success" : 1,
         "How a teenager changed the world of cryptocurrencies: The story of Vitalik Buterin" : 6,
         "How Pavel Durov resisted the authorities and сhanged the Internet? Life, projects and online privacy": 35,
@@ -84,5 +86,10 @@
     "riddle":"bull",
     "rebus":"Funnel",
     "funds":["onlyfans_models","artificial_intelligence","game_development"]
+  },
+  "2024-09-10": {
+    "riddle":"STABLECOIN",
+    "rebus":"leverage",
+    "funds":["onlyfans_models","hamster_breeding","real_estate_in_nigeria"]
   }
 }
