@@ -44,7 +44,8 @@
         "How Pavel Durov resisted the authorities and сhanged the Internet? Life, projects and online privacy": 35,
         "From Queens to billionaire: the real story of Donald Trump. Controversy, power, wealth, and success": 2007,
         "The Bezos phenomenon. The billionaire's path from the garage to space.": 0,
-        "From gum seller to Billionaire. Warren Buffett's wealth philosophy.": 1958
+        "From gum seller to Billionaire. Warren Buffett's wealth philosophy.": 1958,
+        "How Sam Altman Is changing the AI world and what’s behind his popularity?": 2023
     },
   "funds_keys" : [
       "diamonds",
@@ -67,29 +68,9 @@
       "blockchain_projects",
       "blum"
     ],
-  "2024-09-04": {
-    "riddle":"BUDGET",
-    "rebus":"DIVIDEND",
-    "funds":["unicorn_breeding","artificial_intelligence","diamonds"]
-  },
-  "2024-09-05": {
-    "riddle":"IPO",
-    "rebus":"EQUITY",
-    "funds":["space_companies","artificial_intelligence","car_rentals_in_dubai"]
-  },
-  "2024-09-06": {
-    "riddle":"bear",
-    "rebus":"float",
-    "funds":["blockchain_projects","hamster_breeding","pharmaceutical_companies"]
-  },
-  "2024-09-07": {
-    "riddle":"bull",
-    "rebus":"Funnel",
-    "funds":["onlyfans_models","artificial_intelligence","game_development"]
-  },
-  "2024-09-10": {
-    "riddle":"STABLECOIN",
-    "rebus":"leverage",
-    "funds":["onlyfans_models","hamster_breeding","real_estate_in_nigeria"]
+  "2024-09-11": {
+    "riddle":"VALIDATOR",
+    "rebus":"LIQUIDITY",
+    "funds":["onlyfans_models","electric_vehicle_manufacturers","real_estate_in_nigeria"]
   }
 }
