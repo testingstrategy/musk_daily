@@ -43,6 +43,9 @@
         "Corporate Anthropology: the art of Improving team work. Episode 41": 10941,
         "The truth about Inflation. Episode 42": 83242,
         "Mining secrets: How digital currency Is really made? Episode 43": 87843,
+        "Broker secrets: how they make your money work? Episode 44": 62944,
+        "How tech is changing our lives! What to expect by 2025? Episode 45": 23745,
+        "5 proven ways to monetize your passion! Episode 46": 83946,
         "What you can learn from Elon Musk? Uncovering the secrets of success" : 1,
         "How a teenager changed the world of cryptocurrencies: The story of Vitalik Buterin" : 6,
         "How Pavel Durov resisted the authorities and сhanged the Internet? Life, projects and online privacy": 35,
@@ -50,7 +53,9 @@
         "The Bezos phenomenon. The billionaire's path from the garage to space.": 0,
         "From gum seller to Billionaire. Warren Buffett's wealth philosophy.": 1958,
         "How Sam Altman Is changing the AI world and what’s behind his popularity?": 2023,
-        "How to connect the telegram wallet to X Empire and make a test transaction?" : 3
+        "How to connect the telegram wallet to X Empire and make a test transaction?" : 3,
+        "From dorm room to tech Icon: Zuckerberg's story!": 2021
+
     },
   "funds_keys" : [
       "diamonds",
