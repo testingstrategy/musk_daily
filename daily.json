@@ -39,6 +39,10 @@
         "Bioengineering: medical miracles of tomorrow. Episode 37": 72837,
         "The secrets of multicurrency transfers. Episode 38": 22938,
         "Who’s behind your crypto transfers? Episode 39": 44139,
+        "Turning Creativity Into Cash: Intellectual Property Valuation. Episode 40": 65340,
+        "Corporate Anthropology: the art of Improving team work. Episode 41": 10941,
+        "The truth about Inflation. Episode 42": 83242,
+        "Mining secrets: How digital currency Is really made? Episode 43": 87843,
         "What you can learn from Elon Musk? Uncovering the secrets of success" : 1,
         "How a teenager changed the world of cryptocurrencies: The story of Vitalik Buterin" : 6,
         "How Pavel Durov resisted the authorities and сhanged the Internet? Life, projects and online privacy": 35,
@@ -73,5 +77,9 @@
     "riddle":"VALIDATOR",
     "rebus":"LIQUIDITY",
     "funds":["onlyfans_models","electric_vehicle_manufacturers","real_estate_in_nigeria"]
+  },
+  "2024-09-19": {
+    "riddle":"FORK",
+    "rebus":"SPONSORSHIP"
   }
 }
